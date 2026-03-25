@@ -1,0 +1,30 @@
+{
+  "name": "task_tracker_cli",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/skamuzu/Task_Tracker_CLI#readme",
+  "bugs": {
+    "url": "https://github.com/skamuzu/Task_Tracker_CLI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skamuzu/Task_Tracker_CLI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "taskcli": "./index.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
+}

@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data/cache
+pids
+*.pid
+.cache
+.parcel-cache
+.next
+.nuxt
+dist
+
+# Environment variables
+.env
+.env.test
+
+# Build/Coverage
+coverage
+build/Release
+*.tgz

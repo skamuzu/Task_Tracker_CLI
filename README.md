@@ -185,7 +185,7 @@ This project is licensed under the ISC License. See the `package.json` file for 
 
 ## Repository
 
-GitHub: https://github.com/skamuzu/Task_Tracker_CLI
+GitHub: https://github.com/skamuzu/Task_Tracker_CLI.git
 
 ## Troubleshooting
 

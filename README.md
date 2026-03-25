@@ -187,7 +187,8 @@ This project is licensed under the ISC License. See the `package.json` file for 
 
 GitHub: https://github.com/skamuzu/Task_Tracker_CLI.git
 
-## Troubleshooting
+Project Reference: https://roadmap.sh/projects/task-tracker
+
 
 ### "command not found" error
 Make sure you have Node.js installed and you're running the command from the project root directory.
